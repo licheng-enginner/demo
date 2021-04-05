@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wechat</string>
+    <string name="hello_blank_fragment">这是微信聊天界面</string>
+    <string name="friend_blank_fragment">这是朋友界面</string>
+    <string name="contact_blank_fragment">这是通讯录界面</string>
+    <string name="setting_blank_fragment">这是设置界面</string>
+</resources>
